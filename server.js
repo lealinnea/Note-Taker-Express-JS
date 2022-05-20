@@ -13,5 +13,5 @@ app.use ('/', home);
 
 
 app.listen(PORT, () =>
-  console.log(`Example app listening at http://localhost:${PORT}`)
+  console.log(`Note taker app listening at http://localhost:${PORT}`)
 );
